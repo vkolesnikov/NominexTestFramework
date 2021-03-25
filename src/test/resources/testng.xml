@@ -1,0 +1,13 @@
+<suite name="Default Suite">
+    <test name="testngex">
+        <groups>
+            <run>
+                <include name="FE"/>
+            </run>
+        </groups>
+
+        <packages>
+            <package name="org.nominex.frontend"/>
+        </packages>
+    </test>
+</suite>
