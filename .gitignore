@@ -1,3 +1,10 @@
+.allure
+.idea
+build
+allure-results
+target
+*.iml
+
 # Compiled class file
 *.class
 
